@@ -1,2 +1,1 @@
-# hello_java
-Testing Purposes
+# demo_maven_peteco
